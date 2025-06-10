@@ -1,0 +1,12 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```txt
+tensorflow
+librosa
+matplotlib
+numpy
+scikit-learn
+datasets
